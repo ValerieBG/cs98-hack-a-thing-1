@@ -21,10 +21,13 @@ I worked individually.
 ## What you learned
 
 - How to set up and navigate an Xcode project and simulator
-- Basic Swift concepts like structs, variables, and data models
-- How to build basic user interfaces with SwiftUI
+- How to set up SwiftData
+- How to use SwiftData throughout an app
+- How to use PhotosUI
+- How to implement light and dark appearances
+- How to debug an app
 - Displaying and managing lists of data
-- Connecting UI components to underlying data
+- Implement tab views with lists and detail views
 
 ## Authors
 Valerie Gadapati
