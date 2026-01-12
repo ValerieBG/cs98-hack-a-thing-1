@@ -29,6 +29,12 @@ I worked individually.
 - Displaying and managing lists of data
 - Implement tab views with lists and detail views
 
+## How to run it
+1. Clone this repository
+1. Open the desired app in Xcode
+2. Choose an iOS Simulator (e.g., iPhone 17 Pro)
+3. Click the run button to see the app in the simulator
+
 ## Authors
 Valerie Gadapati
 
