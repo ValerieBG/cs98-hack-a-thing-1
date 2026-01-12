@@ -29,6 +29,9 @@ I worked individually.
 - Displaying and managing lists of data
 - Implement tab views with lists and detail views
 
+## What went well / didn't
+Following structured tutorials allowed me to better understand how different parts of an iOS app fit together. Following a video tutorial initially gave me a better visual understanding of the environment and the basics I needed before following other tutorials. Debugging errors and dealing with the simulation crashing were challenging, and decomposing the app into files for organization and functionality was difficult to understand. The syntax itself was surprisingly easy, reminding me of Python. 
+
 ## How to run it
 1. Clone this repository
 1. Open the desired app in Xcode
