@@ -1,25 +1,39 @@
-# Hack Technology / Project Attempted
+# Learning Swift for iOS Development
 
 
 ## What you built? 
 
-TODO: Short description of what you attempted to build
+I explored iOS development by building two small apps in Xcode using Swift tutorials:
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+- GratefulMoments – a simple gratitude app that allows users to add, view, and manage gratitude entries with images. This project was for understanding basic Swift syntax, UI components, and work flow in an iOS app.
+- FriendsFavoriteMovies – an app that works with data representing friends and movies, focused on working with data, lists, and navigation in Swift.
+
+<img width="298" height="590" alt="Screenshot 2026-01-12 at 1 27 18 PM" src="https://github.com/user-attachments/assets/946822ff-b2a4-45dd-8211-7fdfdded9a13" />
+
+<img width="296" height="576" alt="Screenshot 2026-01-12 at 1 27 31 PM" src="https://github.com/user-attachments/assets/1c505c51-ef5e-4b5e-9719-65846e428d63" />
+
+<img width="292" height="575" alt="Screenshot 2026-01-12 at 1 27 41 PM" src="https://github.com/user-attachments/assets/412a45c0-3f05-420d-81df-6441f59234bd" />
 
 ## Who Did What?
 
-TODO: who worked on what part?
+I worked individually.
 
 ## What you learned
 
-TODO: what worked / what didn't work
+- How to set up and navigate an Xcode project and simulator
+- Basic Swift concepts like structs, variables, and data models
+- How to build basic user interfaces with SwiftUI
+- Displaying and managing lists of data
+- Connecting UI components to underlying data
 
 ## Authors
-
-TODO: list of authors
+Valerie Gadapati
 
 ## Acknowledgments
 
-TODO: cite any tutorials followed here
+[Setup and General Knowledge](https://www.youtube.com/watch?v=oRc4lLmvHyE)
+
+[GratefulMoments](https://developer.apple.com/tutorials/develop-in-swift/welcome-to-app-development)
+
+[FriendsFavoriteMovies
+](https://developer.apple.com/tutorials/develop-in-swift/navigate-sample-data)
